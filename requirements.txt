@@ -2,3 +2,4 @@ discord.py
 pillow
 ffmpeg
 youtube-dl
+python-decouple
